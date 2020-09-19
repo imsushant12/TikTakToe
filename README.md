@@ -1,2 +1,2 @@
 # TikTakToe
-Tik Tak Toe game coded in C language
+It is the same famous game that almost everyone has played. In this game first you will find a basic graphics shown game along with a loading sign. After game loads you will find three options i.e. Start the game, Read the instructions and Exit. Coming to the game, you will be asked the name of both the players who is going to play the game (user can choose either X or O accordingly) . Now a matrix of positions will appear and both the players have to choose their desired spot one after the other. Finally esult will be displayed if anyone wins or its a tie.
